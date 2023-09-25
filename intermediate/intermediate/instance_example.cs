@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace intermediate
 {
-    internal class instance_example
-    {
-        public int method_11()
-        {
+    internal class instance_example{
+        public int method_11(){
             //call a static
             Lecture1.method_4(0, 0);
 
