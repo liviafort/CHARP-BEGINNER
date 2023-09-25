@@ -1,0 +1,14 @@
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\bin\Debug\net6.0\intermediate.exe
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\bin\Debug\net6.0\intermediate.deps.json
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\bin\Debug\net6.0\intermediate.runtimeconfig.json
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\bin\Debug\net6.0\intermediate.dll
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\bin\Debug\net6.0\intermediate.pdb
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\obj\Debug\net6.0\intermediate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\obj\Debug\net6.0\intermediate.AssemblyInfoInputs.cache
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\obj\Debug\net6.0\intermediate.AssemblyInfo.cs
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\obj\Debug\net6.0\intermediate.csproj.CoreCompileInputs.cache
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\obj\Debug\net6.0\intermediate.dll
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\obj\Debug\net6.0\refint\intermediate.dll
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\obj\Debug\net6.0\intermediate.pdb
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\obj\Debug\net6.0\intermediate.genruntimeconfig.cache
+C:\Users\livia\Documents\CSHARP-BEGINNER\intermediate\intermediate\obj\Debug\net6.0\ref\intermediate.dll
